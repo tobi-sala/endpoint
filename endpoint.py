@@ -17,7 +17,7 @@ def index():
         "current_day" : date.strftime("%A"),
         "utc_time" : date,
         "track" : "backend",
-        "github_file_url" : "https://github.com/tobi-sala/endpoint/blob/main/endpoint.ext",
+        "github_file_url" : "https://github.com/tobi-sala/endpoint/blob/main/endpoint.py",
         "github_repo_url" : "https://github.com/tobi-sala/endpoint.git",
         "status_code" : 200
     }
